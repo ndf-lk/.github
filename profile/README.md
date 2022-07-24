@@ -1,12 +1,5 @@
-## Hi there 👋
+## National Democratic Front 
 
-<!--
+![banner](https://user-images.githubusercontent.com/66930150/180667420-ba4248ea-9469-48f6-a031-8b8bb5d69f52.jpg)
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are already strong with a wall of people, who are brave and conquered the world through successful entrepreneurship and management.
